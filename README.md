@@ -1,2 +1,4 @@
 # FIRST-REPOSITORY
-my first repository in GITHUB DEMO during CSE11 class in LPU
+my first repository in GITHUB DEMO during CSE111 class in LPU
+
+HELLO WORLD
